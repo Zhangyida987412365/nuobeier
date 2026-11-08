@@ -1,0 +1,7 @@
+.git/
+.DS_Store
+.env*
+scripts/
+__pycache__/
+README.md
+VERIFICATION.md
